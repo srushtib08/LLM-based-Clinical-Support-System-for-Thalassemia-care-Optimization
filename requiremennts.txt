@@ -5,3 +5,6 @@ openai
 pymongo
 requests
 python-dotenv
+
+pymongo
+python-dotenv
