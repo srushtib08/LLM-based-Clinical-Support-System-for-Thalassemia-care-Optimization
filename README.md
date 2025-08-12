@@ -73,7 +73,7 @@ streamlit run app.py
 ```
 -----
 
-📊  Expected Impact
+## 📊  Expected Impact
 ⏱ 50% reduction in donor search time.
 
 📈 Increased awareness via multilingual chatbot.
@@ -83,14 +83,12 @@ streamlit run app.py
 🤝 Better collaboration between patients, donors, and healthcare providers.
 
 
-🏆 Hackathon Participation
+## 🏆 Hackathon Participation
 This project was built for the AI for Good Hackathon 2025 in response to the Blood Warriors Challenge.
 
-👥 Team Members
+##👥 Team Members
 Srushti Badukale – AI/NLP Development
-
 Divya Patkar - PowerBI
 
-
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
