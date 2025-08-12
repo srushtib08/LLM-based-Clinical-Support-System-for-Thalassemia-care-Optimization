@@ -91,4 +91,4 @@ This project was built for the AI for Good Hackathon 2025 in response to the Blo
 - Divya Patkar - PowerBI
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT LICENSE.
