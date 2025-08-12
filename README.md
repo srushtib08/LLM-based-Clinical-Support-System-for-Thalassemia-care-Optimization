@@ -1,4 +1,4 @@
-# 🩸 AI-Powered Clinical Support System for Thalassemia Care
+# 🩸 LLM Based Clinical Support System for Thalassemia Care Optimization
 
 ## 📌 Problem Statement
 Thalassemia patients face numerous challenges, including:
