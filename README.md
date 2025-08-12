@@ -87,8 +87,8 @@ streamlit run app.py
 This project was built for the AI for Good Hackathon 2025 in response to the Blood Warriors Challenge.
 
 ## 👥 Team Members
-Srushti Badukale – AI/NLP Development
-Divya Patkar - PowerBI
+- Srushti Badukale – AI/NLP Development
+- Divya Patkar - PowerBI
 
 ## 📜 License
 This project is licensed under the MIT License.
